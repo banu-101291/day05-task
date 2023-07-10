@@ -1,0 +1,6 @@
+var mycars = [{name:'Sharmila'}, {name:'BMW'}];
+
+for (var car of mycars) 
+{
+  document.write(car.name + "<br />");
+}
